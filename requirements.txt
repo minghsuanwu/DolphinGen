@@ -1,0 +1,7 @@
+accelerate==0.16.0
+datasets==2.1.0
+icetk==0.0.4
+peft==0.2.0
+torch==1.13.1+cu116
+tqdm==4.64.1
+transformers==4.27.3
