@@ -1,3 +1,6 @@
+## 作者
+- 赵健博 @ 梧桐车联/长安汽车, 王路宝 @ 梧桐车联/长安汽车, 郭苏州 @ 梧桐车联/长安汽车 and 吴明轩 @ 梧桐车联/长安汽车
+
 
 # 一个支持ChatLLM模型训练的公开框架项目
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
@@ -32,5 +35,3 @@ torch==1.13.1+cu116
 ```bash
 bash script/train_script.sh
 ```
-## 作者
-- 
