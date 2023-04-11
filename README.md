@@ -1,7 +1,3 @@
-## 作者
-- 赵健博 @ 梧桐车联/长安汽车, 王路宝 @ 梧桐车联/长安汽车, 郭苏州 @ 梧桐车联/长安汽车 and 吴明轩 @ 梧桐车联/长安汽车
-
-
 # 一个支持ChatLLM模型训练的公开框架项目
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) 
@@ -12,6 +8,8 @@
 - OPT （开发中）
 - 其他
 
+## 作者
+- 赵健博 @ 梧桐车联/长安汽车, 王路宝 @ 梧桐车联/长安汽车, 郭苏州 @ 梧桐车联/长安汽车 and 吴明轩 @ 梧桐车联/长安汽车
 ## 概述
 该项目将使用**Stanford Alpaca**的数据生成方法，训练市场上流行的ChatLLM模型。
 ## 教程
